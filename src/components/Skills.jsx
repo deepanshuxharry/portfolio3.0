@@ -33,7 +33,7 @@ const Skills = () => {
   const arr = [
     'JAVA', 'DSA', 'Problem Solving', 'JavaScript', 'NodeJS',
     'MongoDB', 'CSS', 'HTML', 'ExpressJS', 'Tailwind', 'Bootstrap',
-    'C/C++', 'Communication'
+    'C/C++', 'Communication' , "React.js" , "ExpressJS"
   ];
   const [skills, setSkills] = useState(arr);
   const [isVisible, setIsVisible] = useState(false);
