@@ -85,7 +85,7 @@ const Intro = () => {
             </div>
 
             <div className='sm:w-[34%] bg-blue-300 sm:h-72 w-[70%] mt-3 h-60 rounded-full overflow-hidden'>
-              <img className='h-full w-full object-cover' src="./images/file.png" alt="" />
+              <img className='h-full w-full object-cover' src="https://github.com/deepanshuxharry/images/blob/main/file.png?raw=true" alt="" />
             </div>
           </div>
 

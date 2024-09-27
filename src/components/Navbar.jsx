@@ -76,7 +76,7 @@ const Navbar = () => {
       <nav className='nav w-full h-16 p-3 flex items-center justify-center'>
         <div className='flex w-full justify-between gap-10 px-8'>
           <div className='h-10 w-10 inline-block'>
-            <img className='w-full h-full object-cover' src="../../images/S-letter-pink.png" alt="logo" />
+            <img className='w-full h-full object-cover' src="https://github.com/deepanshuxharry/images/blob/main/s-letter-pink.png?raw=true" alt="logo" />
           </div>
 
           <div className="relative inline-block text-left">
